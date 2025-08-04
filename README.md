@@ -89,4 +89,4 @@ MIT License
 
 ## 🌟 Credits
 
-Created by [Your Name](https://github.com/yourusername)  
+Created by [Duaa Fatima]
